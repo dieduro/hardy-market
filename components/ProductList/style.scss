@@ -1,0 +1,12 @@
+
+.container {
+    width: 100%;
+    height: 1080px;
+}
+
+.productList {
+    max-width: 1000px;
+    display: flex;
+    margin: 20px auto 0;
+    justify-content: space-around;
+}
