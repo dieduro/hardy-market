@@ -21,7 +21,7 @@
     "del": "^3.0.0",
     "dom-parser": "^0.1.6",
     "dotenv": "^8.2.0",
-    "mocha": "^7.1.1",
+    "mocha": "^10.2.0",
     "next": "^9.3.4",
     "next-compose-plugins": "^2.2.0",
     "node-sass": "^4.13.1",
